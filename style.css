@@ -1,0 +1,20 @@
+body
+{
+    background-color: palevioletred;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+#camera
+{
+    border: 2px dashed;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects
+{
+    color: black;
+    background-color: aquamarine;
+}
